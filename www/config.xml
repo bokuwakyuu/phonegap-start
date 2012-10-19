@@ -6,11 +6,11 @@
     <name>Hello World</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Hello World sample application from phonegap-start that I use to test.
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="http://coexistentrandom.wordpress.com" email="boku.wa.kyuu@gmail.com">
+        Muhammad Iqbal CR
     </author>
 
     <feature name="http://api.phonegap.com/1.0/device" />
